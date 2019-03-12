@@ -1,0 +1,39 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: darkslategray;
+    color: white;
+    font-family: 'Arvo', serif;
+    color: white;
+    font-weight: 900;
+  }
+
+  .navbar-nav a:link {
+      color: white;
+  }
+
+  .navbar-nav a:visited 
+{
+    color: white;
+}
+
+body {
+    font-family: 'Overpass', sans-serif;
+    font-size: 150%;
+    font-weight: 900;
+    background-color: #aec6cf;
+
+  }
+
+
+.navbar-nav {
+    font-family: 'Arvo', serif;
+    color: white;
+
+  }
+
+  .entry-panel {
+      opacity: 80%;
+  }
